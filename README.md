@@ -12,11 +12,12 @@
 
 <p> Anggota Kelompok Consigliere </p>
 
-<ul>
-<li>Muhammad Rudy Hidayat (2008107010002) 😷 </li>
-<li>Abdul Hafidh (20081070100056) 😷 </li>
-<li>Teuku Nabil Muhammad Dhuha (2008107010004) 😷</li>
-</ul>
+| Name        | NPM           | Specialist |
+| ------------- |:-------------:| -----:|
+| Abdul Hafidh 👨‍🚀      | 2008107010056 | Machine Learning Engineer & Web Developer|
+| Muhhamad Rudy Hidayat 👨       | 2008107010002      |  Network Engineer & UI & UX Design  |
+| Teuku Nabil Muhhamad Dhuha  👨       | 2008107010004      |  UI & UX Design & Data Analyst  |
+
 
 
 
@@ -29,6 +30,7 @@
 <li> Naive Bayessian</li>
 <li> Decision Tree </li>
 <li> SVM </li>
+<li> Random Forest </li>
 </ul>
 
 
